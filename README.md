@@ -1,5 +1,5 @@
 # it-atshemy<div align="center">
-<h1>
+<h1 align="center" color"blue">
 Hi! 👋 I'm Artur Atshemyan
 </h1>
 <p align="center"> 
