@@ -1,17 +1,20 @@
 # it-atshemy<div align="center">
-# Hi! 👋 I'm Artur Atshemyan
-
+<h1>
+Hi! 👋 I'm Artur Atshemyan
+</h1>
 <p align="center"> 
    <img height="250" src="https://scontent.fevn15-1.fna.fbcdn.net/v/t39.30808-6/492826598_1033774815332960_3489935404682997493_n.jpg?stp=dst-jpg_tt6&cstp=mx713x718&ctp=s713x718&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Luoxxvt5OF4Q7kNvwHGG_Ct&_nc_oc=AdoognH-fKvpTWZHUCThFJU_Ib6CRhdPK8PFVMzfENPaMjYaAOWYKSepzzXwW8LHwV8&_nc_zt=23&_nc_ht=scontent.fevn15-1.fna&_nc_gid=lKTzJlwgJdR4lSX3ViloSQ&_nc_ss=7b2a8&oh=00_AQQmA0RsETuSFCKQSdB3wT9Zel6HMQ6hcIvQkEO0Xwv3iA&oe=6B0283AE" width="250"
   height="250" border-radius= "100%" object-fit= "cover"
   " /> 
 </p>
-
+<p align="center"> 
 Flutter Developer with commercial experience in mobile application development. Focused on building cross-platform mobile applications using Flutter and Dart.
-
+</p>
+<p align="center"> 
  🌍 Based in Gyumri, Armenia<br>
  ✉️ Email: [atshemyann@gmail.com](mailto:atshemyann@gmail.com)<br>
  📞 Phone: +37494432396<br>
+</p>
 
 </div>
 <div align="center">
